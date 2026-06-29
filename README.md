@@ -40,7 +40,7 @@
 # 🧰 Technologies & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" />
 </p>
 
 ---
