@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'Divanshu Choudhary</h1>
+<h1 align="center">👋 Hi, I'm Divanshu Choudhary</h1>
 
 <h3 align="center">🚀 Aspiring DevOps Engineer | 💻 B.Tech CSE Student</h3>
 
@@ -45,6 +45,15 @@
 </p>
 ---
 
+
+
+# 🌐 Portfolio
+
+🚀 Check out my live portfolio here:
+
+👉 https://adorable-figolla-094d28.netlify.app/
+
+💻 Built using HTML, CSS & JavaScript
 
 
 # 🎓 Education
